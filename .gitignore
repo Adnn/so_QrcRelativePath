@@ -1,0 +1,38 @@
+# common #
+*.*~
+
+# Cmake #
+/build/
+/build_*/
+/build-*/
+
+# Vim #
+*.swp
+*.swo
+
+# OS X#
+
+## system ##
+*.DS_Store
+
+## XCode ##
+*.pbxuser
+*.xccheckout
+*.mode1v3
+xcuserdata/
+*.dSYM
+
+# Windows #
+
+## system ##
+Thumbs.db
+
+## Visual Studio ##
+*.suo
+*.sdf
+*.ncb
+*.user
+ipch
+
+
+

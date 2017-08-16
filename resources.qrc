@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+<qresource>
+    <file alias="home.html">web/home.html</file>
+    <file alias="img.jpg">web/img.jpg</file>
+</qresource>
+
+</RCC>
